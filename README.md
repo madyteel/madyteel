@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madyteel and I proudly hail from the Citizen Potawatomi Nation!
-- 👀 I’m interested in AI & Machine Learning, IoT, video game programming, software development, healing our planet/environment, and doing everything I can to further my Native American community.
-- 🌱 I’m currently learning Computer Science at the University of Oklahoma and am set to graduate in 2025. 
+- 👀 I’m interested in IoT, video game programming, software development, healing our planet/environment, and doing everything I can to further my Native American community.
+- 🌱 I’m currently pursuing Computer Science and Mathematics at the University of Oklahoma and am set to graduate in 2025. 
 - 📫 How to reach me: madylin.teel@outlook.com
 
 <!---
